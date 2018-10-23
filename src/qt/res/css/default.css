@@ -1601,6 +1601,7 @@ color:#fff;
 
 QDialog#TransactionDescDialog QTextEdit { /* Contents of Receive Coin Dialog */
 border:1px solid #d7d7d7;
+color:#fff;
 }
 
 /********************************* CALENDAR WIDGET **************************************/
