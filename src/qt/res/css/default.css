@@ -1124,7 +1124,7 @@ min-width:410px;
 margin-right:20px;
 margin-left:0;
 margin-top:0;
-color:#333;
+color:#fff;
 background-image: url(':/images/dixicoin_logo_horizontal');
 background-repeat:none;
 }
@@ -1309,7 +1309,7 @@ padding-right:5px;
 }
 
 QStackedWidget#SendCoinsEntry .QFrame#SendCoins .QLabel#amountLabel {
-background-color:#333;
+background-color:#1928ff;
 }
 
 QStackedWidget#SendCoinsEntry .QValidatedLineEdit#payTo { /* Pay To Input Field */
