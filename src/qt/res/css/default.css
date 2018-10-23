@@ -25,7 +25,7 @@ background-color:#fff;
 
 QMenuBar::item {
 background-color:#fff;
-color:#fff;
+color:#333;
 }
 
 QMenuBar::item:selected {
@@ -37,16 +37,16 @@ background-color:#f8f6f6;
 }
 
 QMenu::item {
-color:#fff;
+color:#333;
 }
 
 QMenu::item:selected {
 background-color:#f2f0f0;
-color:#fff;
+color:#333;
 }
 
 QToolBar {
-background-color:#fff;
+background-color:#333;
 border:0px solid #000;
 padding:0;
 margin:0;
