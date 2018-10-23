@@ -1123,14 +1123,14 @@ min-width:410px;
 margin-right:20px;
 margin-left:0;
 margin-top:0;
-color:#333;
+color:#fff;
 background-image: url(':/images/dixicoin_logo_horizontal');
 background-repeat:none;
 }
 
 QWidget .QFrame#frame_2 .QLabel#label_4 { /* Recent Transactions Label */
 min-width:180px;
-color:#fff;
+color:#333;
 margin-left:67px;
 margin-top:83px;
 margin-right:5px;
@@ -1151,7 +1151,7 @@ min-height:16px;
 
 QWidget .QFrame#frame_2 QListView { /* Transaction List */
 font-weight:normal;
-color:#333;
+color:#fff;
 font-size:12px;
 max-width:369px;
 margin-top:12px;
@@ -1588,12 +1588,12 @@ margin-right:1px;
 }
 
 QLabel#transactionSumLabel { /* Example of setObjectName for widgets without name */
-color:#333333;
+color:#fff;
 font-weight:bold;
 }
  
 QLabel#transactionSum { /* Example of setObjectName for widgets without name */
-color:#333333;
+color:#fff;
 }
 
 /**************************** TRANSACTION DETAILS DIALOG ********************************/
