@@ -103,7 +103,7 @@ background-color:#dedbe5;
 
 QWidget {
 selection-background-color:#474747; /* Object highlight color */
-color:#0000;
+color:#000;
 outline:0; /* Remove Annoying Focus Rectangle */
 }
 
