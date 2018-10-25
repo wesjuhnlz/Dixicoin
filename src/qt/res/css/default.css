@@ -1627,9 +1627,10 @@ QCalendarWidget QAbstractItemView:disabled { /* Calendar widget days not in mont
 color:#818181;
 }
 
-
+tabMyMasternodes{
+color:#333;
 	
-
+}
 
 
 #OverviewPage{
